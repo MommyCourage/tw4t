@@ -1,0 +1,263 @@
+html,
+body {
+    padding: 0;
+    margin: 0;
+    height: 100%;
+}
+
+.page {
+    display: flex;
+    flex-direction: row;
+    height: 100%;
+}
+
+.sidebar {
+    display: flex;
+    position: fixed;
+    flex-direction: column;
+    align-items: center;
+    line-height: 1px;
+    font-family: 'Kaisei HarunoUmi';
+    background-color: #3F617B;
+    padding: 20px 30px 20px 30px;
+    height: 100%;
+    width: 300px;
+    color: #fff;
+}
+
+.logo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    line-height: 1px;
+    transform: rotate(-12deg);
+    font-family: 'Italianno';
+    font-weight: 400;
+    font-size: 60px;
+    color: #B9A38B;
+}
+
+.reservations-button {
+    background-color: #DCB894;
+    margin: 30px 0 30px 0;
+    border-radius: 10px;
+    border-width: 0;
+    padding: 15px;
+}
+
+.sidebar-contacts {
+    font-size: 14px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    line-height: 2px;
+}
+
+.main {
+    display: grid;
+    align-items: center;
+}
+
+.container {
+    grid-column: 1;
+    grid-row: 1;
+    background: #F3F0EA;
+    display: flex;
+    flex-direction: column;
+    margin-left: 750px;
+    width: 778px;
+    height: 700px;
+}
+
+.settle-into-the-authentic-chicago-supper-club-experience {
+    border: 1px solid #4E697E;
+    margin: 0 23px 17px 0;
+    display: inline-block;
+    width: 507.1px;
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 19px;
+    color: #4E697E;
+  }
+
+  .celebration-champagne-glasses-new-year-party-icon-1 {
+    margin-top: 9px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 44.7px;
+    height: 54px;
+    box-sizing: border-box;
+  }
+
+  .vector {
+    width: 44.7px;
+    height: 54px;
+  }
+
+  .container-14 {
+    margin: 0 13.8px 7px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 665.2px;
+    box-sizing: border-box;
+  }
+
+  .prime-rib-steaks-and-fresh-seafood-in-aswanky-jazz-era-atmosphere-with-live-jazz-on-fridays-saturdays-in-the-heart-of-downtown-chicago {
+    margin: 5px 12px 6px 0;
+    display: inline-block;
+    width: 412px;
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 10px;
+    color: #939393;
+  }
+
+
+  .mothers-day-brunch {
+    overflow-wrap: break-word;
+    font-family: 'Kapakana';
+    font-weight: 400;
+    font-size: 35px;
+    color: #4E697E;
+  }
+
+  .container-6 {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 679px;
+    box-sizing: border-box;
+  }
+
+  .container-8 {
+    margin-top: 17px;
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+
+  .container-10 {
+    border-radius: 7px;
+    background: #F45555;
+    position: relative;
+    margin-right: 19px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 14px 11.4px 13px 10px;
+    box-sizing: border-box;
+  }
+
+  .reserve-atable {
+    overflow-wrap: break-word;
+    font-family: 'Kaisei HarunoUmi';
+    font-weight: 400;
+    font-size: 10px;
+    color: #FFFFFF;
+  }
+
+  .browse-the-menu {
+    margin: 14px 4.5px 13px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Kaisei HarunoUmi';
+    font-weight: 400;
+    font-size: 10px;
+    color: #F45454;
+  }
+
+  .arrow-1 {
+    background: #F45454;
+    margin: 20px 0;
+    width: 11px;
+    height: 1px;
+  }
+
+  .sunday-may-8-th-2024-reservations-are-accepted-from-1030-am-245-pm {
+    position: relative;
+    margin-bottom: 22px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 10px;
+    color: #939393;
+  }
+
+  .line-1 {
+    background: #B2A89E;
+    position: absolute;
+    top: 4px;
+    right: 107px;
+    width: 41px;
+    height: 1px;
+  }
+
+  .container-4 {
+    margin-left: 425px;
+    display: flex;
+    flex-direction: row;
+    align-self: center;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+
+  .brunch-details-menu {
+    margin-right: 5px;
+    overflow-wrap: break-word;
+    font-family: 'Kaisei HarunoUmi';
+    font-weight: 400;
+    font-size: 10px;
+    color: #F45454;
+  }
+
+  .arrow-2 {
+    background: #F45454;
+    margin: 7px 0 6px 0;
+    width: 11px;
+    height: 1px;
+  }
+
+.container-16 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-self: flex-start;
+    width: 574.8px;
+    box-sizing: border-box;
+  }
+
+.cheburek-bar {
+    grid-column: 1;
+    grid-row: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: auto;
+    height: 100%;
+}
+
+.cheburek-bar img {
+    width: 100%;
+}
+
+.city-box {
+    display: grid;
+    width: 100%;
+}
+
+.city-img {
+    grid-column: 1;
+    grid-row: 1;
+}
+
+.blue-box {
+    grid-column: 1;
+    grid-row: 1;
+    background: rgba(80, 124, 159, 0.66);
+}
